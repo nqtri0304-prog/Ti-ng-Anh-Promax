@@ -1,0 +1,6 @@
+{
+  "name": "English Master",
+  "description": "Ứng dụng học 12 thì Tiếng Anh, tra từ điển Anh - Việt, sổ tay từ vựng và luyện tập trắc nghiệm ngẫu nhiên kèm lời giải chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
